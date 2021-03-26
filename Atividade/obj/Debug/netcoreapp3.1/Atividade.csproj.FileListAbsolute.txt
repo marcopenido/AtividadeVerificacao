@@ -1,0 +1,13 @@
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.exe
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.deps.json
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.runtimeconfig.json
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.runtimeconfig.dev.json
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.dll
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.pdb
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.csprojAssemblyReference.cache
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.AssemblyInfoInputs.cache
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.AssemblyInfo.cs
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.dll
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.pdb
+C:\Users\MarcoAntonio\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.genruntimeconfig.cache
